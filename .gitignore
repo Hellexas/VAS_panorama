@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Output images (to keep workspace clean)
+panorama.jpg
+*panorama.jpg
+*.png_stitched.png
