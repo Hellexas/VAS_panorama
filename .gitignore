@@ -11,6 +11,4 @@ env/
 ENV/
 
 # Output images (to keep workspace clean)
-panorama.jpg
-*panorama.jpg
 *.png_stitched.png
